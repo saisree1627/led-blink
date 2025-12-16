@@ -20,7 +20,7 @@ It is intended for beginners to verify ESP32 setup and GPIO operation.
 
 ---
 
-## 🖥 Software Required
+## Software Required
 - Visual Studio Code
 - PlatformIO Extension
 - ESP32 USB-to-UART driver (CP2102 / CH340)
@@ -29,11 +29,11 @@ It is intended for beginners to verify ESP32 setup and GPIO operation.
 
 ---
 
-## ⚙️ PlatformIO Configuration (`platformio.ini`)
+## PlatformIO Configuration (`platformio.ini`)
 ```ini
 [env:esp32dev]
 platform = espressif32
 board = esp32dev
 framework = arduino
 
-## 📂 Project Structure
+## Project Structur
